@@ -11,7 +11,7 @@ st.set_page_config(
 )
 
 # Leitura do conjunto de dados
-df = pd.read_csv(https://raw.githubusercontent.com/EliC-F/imersao_dados_python_alura/refs/heads/main/Eli_dados_imersao.csv)
+df = pd.read_csv("https://raw.githubusercontent.com/EliC-F/imersao_dados_python_alura/refs/heads/main/Eli_dados_imersao.csv")
 
 
 # Conversão de código ISO-2 para ISO-3
@@ -193,4 +193,5 @@ else:
 # Tabela final
 st.subheader("Dados detalhados")
 st.dataframe(df_filtrado)
+
 
