@@ -57,3 +57,7 @@ Durante o desenvolvimento deste projeto, foi possível:
 ## 🔎 Reflexões e Próximos Passos
 
 Me inscrevi nesta imersão inicialmente pelo interesse em aprofundar meus conhecimentos em Python. Ao longo do projeto, no entanto, fui positivamente surpreendido pela relevância e pelo potencial da área de dados, especialmente pela forma como a análise e a visualização podem transformar informações em insights úteis. O desenvolvimento deste dashboard ampliou minha visão sobre o uso do Python além da programação em si, mostrando seu papel como ferramenta estratégica para análise, interpretação e apoio à tomada de decisões. Esta experiência despertou ainda mais meu interesse em continuar explorando a área de dados, ao mesmo tempo em que fortaleceu minha base técnica e minha capacidade de aprender novas ferramentas e conceitos na prática.
+
+
+### 📌 Fonte dos Dados
+Os dados utilizados neste projeto foram disponibilizados durante a Imersão em Dados com Python da Alura e são utilizados aqui exclusivamente para fins educacionais.
